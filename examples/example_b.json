@@ -1,0 +1,7 @@
+{
+  "status": "online",
+  "sensor": {
+    "reading": 99.0,
+    "identifier": "B-03"
+  }
+}
