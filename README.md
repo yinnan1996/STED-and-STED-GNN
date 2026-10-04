@@ -2,8 +2,7 @@
 
 This repository contains the reference implementations of STED and STED-GNN
 described in the paper. It focuses on the method definitions, data
-preprocessing, and model execution. The manuscript's full experimental result
-artifacts and private evaluation annotations are not part of this repository.
+preprocessing, and model execution.
 
 The release includes:
 
